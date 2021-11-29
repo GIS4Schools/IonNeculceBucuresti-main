@@ -1,2 +1,2 @@
-# EccolaDrJoseAfonsoSeixal-main
-Eccola Dr. Jose Afonso Seixal main repository
+# IonNeculceBucuresti-main
+Colegiul Ion Neculce main repository
